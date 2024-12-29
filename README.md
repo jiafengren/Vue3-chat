@@ -1,3 +1,4 @@
+
 # vue3-chat
 
 This is a GPT-like chat interface built using Vite, Vue 3, ElementPlus, and Tailwind CSS, supporting custom API URLs and API Keys.
@@ -51,3 +52,8 @@ Follow these steps to install and run the project.
 After starting the development server, open your browser and visit `http://localhost:5173`, where you will see a GPT-like chat interface. You can input and simulate conversations in this interface. Before doing so, set your API URL and API Key in the top right corner.
 
 ![image](https://github.com/hoyii/vue3-chat/blob/main/images/config.png)
+
+=======
+# Vue3-chat
+vue3实现一个gpt聊天
+>>>>>>> 118726732487e78b758482ad2321fcf621ef3e53
